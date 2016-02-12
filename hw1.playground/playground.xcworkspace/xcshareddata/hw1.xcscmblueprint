@@ -1,14 +1,18 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "55CCDCB7A8583E671D8CF9FA82800CF6D50BD920",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "55CCDCB7A8583E671D8CF9FA82800CF6D50BD920+++E30A37B",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
 
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
-    "55CCDCB7A8583E671D8CF9FA82800CF6D50BD920" : 0
+    "55CCDCB7A8583E671D8CF9FA82800CF6D50BD920+++785A847" : 0,
+    "55CCDCB7A8583E671D8CF9FA82800CF6D50BD920+++E30A37B" : 0,
+    "55CCDCB7A8583E671D8CF9FA82800CF6D50BD920+++EA58D52" : 0
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "80EBCD1E-F128-44DA-A98F-6F312BF65E88",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "55CCDCB7A8583E671D8CF9FA82800CF6D50BD920" : ""
+    "55CCDCB7A8583E671D8CF9FA82800CF6D50BD920+++785A847" : "",
+    "55CCDCB7A8583E671D8CF9FA82800CF6D50BD920+++E30A37B" : "hw1\/",
+    "55CCDCB7A8583E671D8CF9FA82800CF6D50BD920+++EA58D52" : ""
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "hw1",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
@@ -17,12 +21,17 @@
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/sophiecooper\/ios-decal-hw1.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "55CCDCB7A8583E671D8CF9FA82800CF6D50BD920"
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "55CCDCB7A8583E671D8CF9FA82800CF6D50BD920+++785A847"
     },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/sophiecooper\/ios-decal-hw1.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "55CCDCB7A8583E671D8CF9FA82800CF6D50BD920"
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "55CCDCB7A8583E671D8CF9FA82800CF6D50BD920+++E30A37B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/sophiecooper\/ios-decal-hw1.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "55CCDCB7A8583E671D8CF9FA82800CF6D50BD920+++EA58D52"
     }
   ]
 }
